@@ -19,7 +19,31 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderman0&" alt="coderman0" /></p>
 
+class Must {
 
+    constructor(options) {
+
+        this.name = "Rıdvan",
+
+	this.age = "17",
+
+        this.sex = "man",
+
+        this.length = "176",
+
+        this.type = "human",
+
+        this.weight = "65",
+
+        this.discord.tag = "'h2ode#0001",
+
+        this.instagram.name = "rdvan.php" 
+
+    };
+
+}
+
+module.exports = Must
 
 <!--
 **coderman0/coderman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
