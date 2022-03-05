@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridone</h1>
 <h3 align="center">A passionate Flutter developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="">
-
-<p align="left"> <a href="https://twitter.com/rdvanusta8" target="blank"><img src="https://img.shields.io/twitter/follow/rdvanusta8?logo=twitter&style=for-the-badge" alt="rdvanusta8" /></a> </p>
+<img align="right" alt="Coding" width="400" src=""> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +18,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderman0&" alt="coderman0" /></p>
 
 class Must {
+
     constructor(options) {
 
         this.name = "Rıdvan",
@@ -38,9 +37,10 @@ class Must {
 
         this.instagram.name = "rdvan.php" 
     };
+
 }
 
-module.exports = Must
+module.exports = Rdv
 
 <!--
 **coderman0/coderman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
