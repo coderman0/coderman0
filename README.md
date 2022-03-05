@@ -20,7 +20,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderman0&" alt="coderman0" /></p>
 
 class Must {
-
     constructor(options) {
 
         this.name = "Rıdvan",
@@ -38,9 +37,7 @@ class Must {
         this.discord.tag = "'h2ode#0001",
 
         this.instagram.name = "rdvan.php" 
-
     };
-
 }
 
 module.exports = Must
