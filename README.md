@@ -17,7 +17,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderman0&" alt="coderman0" /></p>
 
-class Must {
+class Rdv {
 
     constructor(options) {
 
@@ -39,8 +39,7 @@ class Must {
     };
 
 }
-
-module.exports = Rdv
+ module.exports = Rdv
 
 <!--
 **coderman0/coderman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
