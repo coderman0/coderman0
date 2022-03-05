@@ -39,6 +39,7 @@ class Rdv {
     };
 
 }
+
  module.exports = Rdv
 
 <!--
