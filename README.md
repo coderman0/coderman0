@@ -37,9 +37,7 @@
 
     this.instagram.name = "_rdvn"
     
-    };
-    
-    }
+    }; }
     
    module.exports = Rdv
 
