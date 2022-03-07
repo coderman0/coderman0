@@ -23,7 +23,7 @@ constructor(options) {
 
     this.name = "Rıdvan",
 
-this.age = "17",
+    this.age = "17",
 
     this.sex = "man",
 
@@ -33,13 +33,9 @@ this.age = "17",
 
     this.weight = "65",
 
-    this.discord.tag = "'h2ode#0001",
+    this.discord.tag = "h2ode#0001",
 
-    this.instagram.name = "rdvan.php" 
-};
-}
-
-module.exports = Rdv
+    this.instagram.name = "_rdvn"
 
 <!--
 **coderman0/coderman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
