@@ -17,9 +17,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderman0&" alt="coderman0" /></p>
 
-class Rdv {
+  class Rdv {
 
-constructor(options) {
+   constructor(options) {
 
     this.name = "Rıdvan",
 
@@ -39,7 +39,8 @@ constructor(options) {
     
     };
     
-   }
+    }
+    
     module.exports = Rdv
 
 <!--
